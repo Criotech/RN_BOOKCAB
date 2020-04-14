@@ -25,7 +25,7 @@
       <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
       <meta-data
         android:name="com.google.android.geo.API_KEY"
-        android:value="AIzaSyCr2yo9sxsRWU2NQa9YE-oTJJbVlNI3Vyo"/>
+        android:value="ADD API KEY"/>
   
        <!-- You will also only need to add this uses-libray tag -->
        <uses-library android:name="org.apache.http.legacy" android:required="false"/>    
